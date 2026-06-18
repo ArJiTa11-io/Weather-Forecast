@@ -41,14 +41,14 @@ This application transitions standalone predictive modeling into an interactive,
 ## 📸 Enterprise Interface Preview
 
 <p align="center">
-  <strong>1. Core Dynamic Analytics Dashboard</strong><br>
+  <strong></strong><br>
   <img src="dashboard-main.png" alt="Main Application Interface" width="100%">
   <br><br><br>
   <strong></strong><br>
   <img src="dashboard-main(1).png" alt="Predictive Analytics Trend" width="100%">
   <br><br><br>
   <strong></strong><br>
-  <img src="dashbord-main(2).png" alt="Data Distribution" width="100%">
+  <img src="dashboard-main(2).png" alt="Data Distribution" width="100%">
 </p>
 
 ---
