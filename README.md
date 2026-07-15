@@ -98,5 +98,4 @@ streamlit run app.py
 
 ---
 
-*This is a student project built for learning purposes as part of my BCA coursework.*
 
