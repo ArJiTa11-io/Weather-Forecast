@@ -1,4 +1,4 @@
-# 🌤️ Weather Forecast App
+# 🌤️ Weather Forecast
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
